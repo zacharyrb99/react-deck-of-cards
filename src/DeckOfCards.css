@@ -1,0 +1,27 @@
+.DeckOfCards-draw{
+    background-color: #d6333e;
+    margin: 15px; 
+    padding: 15px;
+    border-radius: 15px;
+    color:white;
+}
+
+.DeckOfCards-reshuffle{
+    background-color: #d6333e;
+    margin: 15px; 
+    padding: 15px;
+    border-radius: 15px;
+    color:white;
+}
+
+.DeckOfCards-draw:hover{
+    transform: scale(1.25);
+}
+
+.DeckOfCards-reshuffle:hover{
+    transform: scale(1.25);
+}
+
+.DeckOfCards-cards{
+    margin-top: 15vh;
+}
